@@ -1,0 +1,19 @@
+body {
+  background-color: #e3fdfd;
+}
+hr {
+  /*border-style: none; /*default 설정이 inset으로 되어있음 boredr를 없애줌으로서 bacground-color 적용 */
+
+  width: 5%;
+  background-color: transparent;
+  border-style: dotted none none none;
+  border-width: 5px;
+}
+
+h1 {
+  color: #71c9ce;
+}
+
+h3 {
+  color: #71c9ce;
+}
